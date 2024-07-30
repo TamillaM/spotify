@@ -1,0 +1,21 @@
+button{
+    background-color: darkblue;
+    color: white;
+    border-radius: 30px;
+    padding: 15px;
+    width: 150px;
+    font-size: 20px;
+}
+.searchBar{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 40px;
+}
+input{
+    margin-top: 40px;
+    border-radius: 30px;
+    padding: 20px;
+    width: 300px;
+    font-size: 25px;
+}

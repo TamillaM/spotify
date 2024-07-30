@@ -1,0 +1,13 @@
+#in{
+    border: none;
+    outline: none;
+    background-color: transparent;
+    color: white;
+    margin: 0;
+    font-size: 30px;
+}
+.playList{
+    background-color: darkblue;
+    opacity: 60%;
+    width: 400px;
+}

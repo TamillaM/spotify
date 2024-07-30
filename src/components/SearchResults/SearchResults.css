@@ -1,0 +1,11 @@
+.searchResult{
+    background-color: darkblue;
+    height: 700px;
+    width: 500px;
+    opacity: 60%;
+    color: white;
+    text-align: left;
+}
+h1{
+    margin-left: 10px;
+}
